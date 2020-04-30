@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+
+#morediv {
+    display:none;
+    text-align: center;
+    font-size: x-large; 
+    width:400px; 
+    margin:0 auto;
+    background-color:#FFFF00;
+    margin-top:20px;
+    padding:10px;
+    
+}
